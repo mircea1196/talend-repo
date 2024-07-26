@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_fqqiQUswEe-w68A7vMq59A" label="bootcamp-esol" language="java" technicalLabel="BOOTCAMP_ESOL" author="_fqqiQkswEe-w68A7vMq59A" productVersion="Talend Cloud Data Management Platform-8.0.1.20240718_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mircea1196/talend-repo&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_frrO4EswEe-w68A7vMq59A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_fqqiQkswEe-w68A7vMq59A" login="bgr16710@trial31129.eu.talend.com" firstName="Mircea" lastName="Malaescu" type="DQ"/>
+</xmi:XMI>
